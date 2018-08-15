@@ -4,21 +4,21 @@
 My Design and Tech courses at WAIS are designed with regards to IB MYP and CP. Courses also fulfill Texas STEM or Business & Industry graduation endorsements if part of a coherent sequence.
 
 ##### STEM
- Fundamentals of CS
- Computer Science
- Computer Science 2
- Computer Science 3
- Computer Science Diploma-Level
- Ind. Study in Tech Apps
- Robotics Prg. & Design
+* Fundamentals of CS
+* Computer Science
+* Computer Science 2
+* Computer Science 3
+* Computer Science Diploma-Level
+* Ind. Study in Tech Apps
+* Robotics Prg. & Design
  
 ##### Business & Industry
-Digital Art & Animation
-Dig. Communications
-Dig. Design & Media Prod.
-Dig. Video & Audio Design
-Ind. Study in Emerg. Tech
-Web Design
+* Digital Art & Animation
+* Dig. Communications
+* Dig. Design & Media Prod.
+* Dig. Video & Audio Design
+* Ind. Study in Emerg. Tech
+* Web Design
 
 Not all classes are available every year. The courses taught are based on the interest level shown on course selection sheets.
 
@@ -54,7 +54,9 @@ This is aligned and modeled from industry and is aligned with IB Design expectat
 Design and Tech places a higher grade percentages on what you do everyday, as opposed to on just a single day when you might have a test or project due.
 
 50% - Daily Work & Activities
+
 30% - Projects
+
 20% - Homework / Quizzes / Out of Class Work
 
 If there is a question regarding grades, please speak to your teacher sooner than later. There are limitations to when changes can be made.
