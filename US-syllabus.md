@@ -3,7 +3,7 @@
 
 My Design and Tech courses at WAIS are designed with regards to IB MYP and CP. Courses also fulfill Texas STEM or Business & Industry graduation endorsements if part of a coherent sequence.
 
-| STEM                             | B&I                         | 
+| STEM                             | B & I                       | 
 | -------------------------------- | --------------------------- |
 | * Fundamentals of CS             | * Digital Art & Animation   |
 | * Computer Science               | * Dig. Communications       |
