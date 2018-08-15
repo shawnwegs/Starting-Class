@@ -19,7 +19,7 @@ Not all classes are available every year. The courses taught are based on the in
 ### Classroom Expectations:
 The Balcony Mac Lab is a district computer lab, and as such has some policies that are set by the district.
 
-By the district, food and drink are not allowed. This includes candy and gum. Students may have a water bottle, but it needs to be resealable, and kept on the floor.
+:white_large_square: By the district, food and drink are not allowed. This includes candy and gum. Students may have a water bottle, but it needs to be resealable, and kept on the floor.
 
 Every student is sitting at a new iMac with 16 gb of ram and a 21.5” screen. As such, students do not need and should not be using any additional devices without permission. This includes but is not limited to phones, tablets, and chrome books.
 
