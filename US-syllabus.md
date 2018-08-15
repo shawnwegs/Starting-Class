@@ -1,1 +1,60 @@
-#Syllabus
+# Syllabus
+###### for courses with S. Wegscheid
+
+My Design and Tech courses at WAIS are designed with regards to IB MYP and CP. Courses also fulfill Texas STEM or Business & Industry graduation endorsements if part of a coherent sequence.
+
+##### STEM
+ Fundamentals of CS
+ Computer Science
+ Computer Science 2
+ Computer Science 3
+ Computer Science Diploma-Level
+ Ind. Study in Tech Apps
+ Robotics Prg. & Design
+ 
+##### Business & Industry
+Digital Art & Animation
+Dig. Communications
+Dig. Design & Media Prod.
+Dig. Video & Audio Design
+Ind. Study in Emerg. Tech
+Web Design
+
+Not all classes are available every year. The courses taught are based on the interest level shown on course selection sheets.
+
+### Classroom Expectations:
+The Balcony Mac Lab is a district computer lab, and as such has some policies that are set by the district.
+
+By the district, food and drink are not allowed. This includes candy and gum. Students may have a water bottle, but it needs to be resealable, and kept on the floor.
+
+Every student is sitting at a new iMac with 16 gb of ram and a 21.5” screen. As such, students do not need and should not be using any additional devices without permission. This includes but is not limited to phones, tablets, and chrome books.
+
+Homework (with exception to yearbook) is given rarely. As such, students are expected to be productive from the start of class, until the end.
+
+### For class, please consider bringing:
+* Headphones (your personal use)
+* Jacket/Sweater (if you get cold easy)
+
+Please consider bringing some form of supplies for general class use, such as:
+* Kleenex
+* Graph Paper
+* Printer Paper
+
+### Course Content:
+Students will work with professional software and languages in design and tech courses. The specific software will vary depending on the course.
+
+When turning in work, use font in a responsible readable manner; around sizes 10-12, good contrast in colors, respectable serif or san serif fonts like Avenir, Helvetica, Georgia, Palatino, Times, etc. Any work in Comic Sans, Papyrus, Curlz, or other overly decorative fonts will not be scored. A document should not have more than 2 or 3 fonts. If variety is needed, make use weight, sizes, and styles within the same font instead of hopping from font to font.
+
+### Major Reports and Projects:
+Courses will have documentation accompanying long term project work. These projects and documents are due at the end of each semester, and students will work on different parts of them throughout the course.
+
+This is aligned and modeled from industry and is aligned with IB Design expectations.
+
+### Grading:
+Design and Tech places a higher grade percentages on what you do everyday, as opposed to on just a single day when you might have a test or project due.
+
+50% - Daily Work & Activities
+30% - Projects
+20% - Homework / Quizzes / Out of Class Work
+
+If there is a question regarding grades, please speak to your teacher sooner than later. There are limitations to when changes can be made.
