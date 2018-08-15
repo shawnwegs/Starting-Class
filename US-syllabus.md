@@ -3,22 +3,16 @@
 
 My Design and Tech courses at WAIS are designed with regards to IB MYP and CP. Courses also fulfill Texas STEM or Business & Industry graduation endorsements if part of a coherent sequence.
 
-##### STEM
-* Fundamentals of CS
-* Computer Science
-* Computer Science 2
-* Computer Science 3
-* Computer Science Diploma-Level
-* Ind. Study in Tech Apps
-* Robotics Prg. & Design
- 
-##### Business & Industry
-* Digital Art & Animation
-* Dig. Communications
-* Dig. Design & Media Prod.
-* Dig. Video & Audio Design
-* Ind. Study in Emerg. Tech
-* Web Design
+| STEM                             | B&I                         | 
+| -------------------------------- |:---------------------------:|
+| * Fundamentals of CS             | * Digital Art & Animation   |
+| * Computer Science               | * Dig. Communications       |
+| * Computer Science 2             | * Dig. Design & Media Prod. |
+| * Computer Science 3             | * Dig. Video & Audio Design |
+| * Computer Science Diploma-Level | * Ind. Study in Emerg. Tech |
+| * Ind. Study in Tech Apps        | * Web Design                |
+| * Robotics Prg. & Design         |                             |
+
 
 Not all classes are available every year. The courses taught are based on the interest level shown on course selection sheets.
 
