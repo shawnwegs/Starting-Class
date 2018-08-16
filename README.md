@@ -1,7 +1,13 @@
 # Design & CS Courses at WAIS
 ###### With S.Wegscheid
 
-#### Syllabi
+#### General Syllabus
+* IB MYP Middle School
+* IB MYP Upper School
+* IB CP
+* IB DP
+
+#### Course Description
 * Computer Science 1
 * Computer Science 2
 * ~~Computer Science 3~~
