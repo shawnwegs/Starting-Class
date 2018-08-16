@@ -47,19 +47,10 @@ This is aligned and modeled from industry and is aligned with IB Design expectat
 ### Grading:
 Design and Tech places a higher grade percentages on what you do everyday, as opposed to on just a single day when you might have a test or project due.
 
-| STEM                             | B & I                       | 
-| * Fundamentals of CS             | * Digital Art & Animation   |
-| * Computer Science               | * Dig. Communications       |
-| * Computer Science 2             | * Dig. Design & Media Prod. |
-| * Computer Science 3             | * Dig. Video & Audio Design |
-| * Computer Science Diploma-Level | * Ind. Study in Emerg. Tech |
-| * Ind. Study in Tech Apps        | * Web Design                |
-| * Robotics Prg. & Design         |                             |
+| %                 | Category                            | 
+| ------------------| ----------------------------------- |
+| 50%               | * Daily / Activities                |
+| 30%               | * Projects                          |
+| 20%               | * Homework / Quizzes / Out of Class |
 
-50% - Daily Work & Activities
-
-30% - Projects
-
-20% - Homework / Quizzes / Out of Class Work
-
-If there is a question regarding grades, please speak to your teacher sooner than later. There are limitations to when changes can be made.
+If there is a question regarding grades in any of your classes, please speak to your teacher sooner than later. There are limitations to when changes can be made. If a grade should be changed, and it isn't because you chose not to talk to me about it, it won't be changed.
