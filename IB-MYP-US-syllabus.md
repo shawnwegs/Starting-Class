@@ -23,7 +23,7 @@ By the district, food and drink are not allowed. This includes candy and gum. St
 
 Every student is sitting at a new iMac with 16 gb of ram and a 21.5” screen. As such, students do not need and should not be using any additional devices without permission. This includes but is not limited to phones, tablets, and chrome books.
 
-Specific homework is rarely given. As such, students are expected to be productive from the start of class, until the end. However, you are expected to interact with course content or ideas outside of class. You will likely need to in order to be a high achieving student.
+Specific homework is rarely given. As such, students are expected to be productive from the start of class, until the end. However, you are expected to interact with course content or concepts outside of class.
 
 ### For class, please consider bringing:
 * Headphones (your personal use)
@@ -54,3 +54,21 @@ Design and Tech places a higher grade percentages on what you do everyday, as op
 | 20%               | * Homework / Quizzes / Out of Class |
 
 If there is a question regarding grades in any of your classes, please speak to your teacher sooner than later. There are limitations to when changes can be made. If a grade should be changed, and it isn't because you chose not to talk to me about it, it won't be changed.
+
+
+______________________________
+Student's Name
+
+
+______________________________      _____________
+Student's Signature                  Date
+
+
+
+
+______________________________
+Parent's Name
+
+
+______________________________      _____________
+Parent's Signature                  Date
