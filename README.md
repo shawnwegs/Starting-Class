@@ -3,7 +3,7 @@
 
 #### General Syllabus
 * IB MYP Middle School
-* IB MYP Upper School
+* [IB MYP Upper School](https://shawnwegs.github.io/Starting-Class/US-syllabus)
 * IB CP
 * IB DP
 
