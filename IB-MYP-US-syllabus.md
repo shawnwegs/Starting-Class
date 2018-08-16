@@ -67,4 +67,4 @@ If there is a question regarding grades in any of your classes, please speak to 
 | ![alt text][logo]                                    |                   |
 | Parent's Signature                  | Date              |
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Sign here:"
+[logo]: https://shawnwegs.github.io/Starting-Class/X.png "Sign here:"
