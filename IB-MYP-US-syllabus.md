@@ -56,15 +56,15 @@ Design and Tech places a higher grade percentages on what you do everyday, as op
 If there is a question regarding grades in any of your classes, please speak to your teacher sooner than later. There are limitations to when changes can be made. If a grade should be changed, and it isn't because you chose not to talk to me about it, it won't be changed.
 
 
-|                                     |                   | 
+| Print and Sign Name on Marks Below  |                   | 
 | ----------------------------------- | ----------------- |
-| ![alt text][logo]                                    |                   |
+| ![alt text][logo]                   |                   |
 | Student's Name                      |                   |
-| ![alt text][logo]                                    |                   |
+| ![alt text][logo]                   |                   |
 | Student's Signature                 | Date              |
-| ![alt text][logo]                                    |                   |
+| ![alt text][logo]                   |                   |
 | Parent's Name                       |                   |
-| ![alt text][logo]                                    |                   |
+| ![alt text][logo]                   |                   |
 | Parent's Signature                  | Date              |
 
 [logo]: https://shawnwegs.github.io/Starting-Class/X.png "Sign here:"
