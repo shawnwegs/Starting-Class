@@ -56,23 +56,13 @@ Design and Tech places a higher grade percentages on what you do everyday, as op
 If there is a question regarding grades in any of your classes, please speak to your teacher sooner than later. There are limitations to when changes can be made. If a grade should be changed, and it isn't because you chose not to talk to me about it, it won't be changed.
 
 
-~~------------------------------~~
-
-Student's Name
-
-
-~~------------------------------~~      ~~------------~~
-
-Student's Signature                  Date
-
-
-
-
-~~------------------------------~~
-
-Parent's Name
-
-
-~~------------------------------~~      ~~------------~~
-
-Parent's Signature                  Date
+|                                     |                   | 
+| ----------------------------------- | ----------------- |
+|                                     |                   |
+| Student's Name                      |                   |
+|                                     |                   |
+| Student's Signature                 | Date              |
+|                                     |                   |
+| Parent's Name                       |                   |
+|                                     |                   |
+| Parent's Signature                  | Date              |
