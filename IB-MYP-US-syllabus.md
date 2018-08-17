@@ -5,7 +5,7 @@ My Design and Tech courses at WAIS are designed with regards to IB MYP and CP. C
 
 | STEM                             | B & I                       | 
 | -------------------------------- | --------------------------- |
-| * Fundamentals of CS             | * Digital Art & Animation   |
+| * Fundamentals of CS             | * Digital Art & Animation¹  |
 | * Computer Science               | * Dig. Communications       |
 | * Computer Science 2             | * Dig. Design & Media Prod. |
 | * Computer Science 3             | * Dig. Video & Audio Design |
@@ -15,6 +15,8 @@ My Design and Tech courses at WAIS are designed with regards to IB MYP and CP. C
 
 
 Not all classes are available every year. The courses taught are based on the interest level shown on course selection sheets.
+
+¹ Satisfies Fine Art Graduation Requirement
 
 ![alt text](https://shawnwegs.github.io/Starting-Class/exy.png "No") I understand
 
