@@ -76,12 +76,12 @@ Research, as well as personal experience, shows that students tend to understand
 
 | Print and Sign Name on Marks Below  |                   | 
 | ----------------------------------- | ----------------- |
-| ![alt text][logo]                   |                   |
+| x                   |                   |
 | Student's Name                      | Date              |
-| ![alt text][logo]                   |                   |
+| x                   |                   |
 | Student's Signature                 | Date              |
-| ![alt text][logo]                   |                   |
+| x                   |                   |
 | Parent/Guardian's Name              | Date              |
-| ![alt text][logo]                   |                   |
+| x                   |                   |
 | Parent/Guardian's Signature         | Date              |
 
