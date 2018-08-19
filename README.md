@@ -5,7 +5,7 @@
 * IB MYP Middle School
 * [IB MYP Upper School](https://shawnwegs.github.io/Starting-Class/IB-MYP-US-syllabus)
 * IB CP
-* IB DP
+* [IB DP CS](https://shawnwegs.github.io/Starting-Class/IB-DP-CS-syllabus)
 
 #### Course Description
 * Computer Science 1
