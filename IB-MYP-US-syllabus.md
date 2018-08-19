@@ -1,7 +1,7 @@
 # Syllabus
 ###### for IB MYP US courses with S. Wegscheid
 
-My Design and Tech courses at WAIS are designed with regards to IB MYP and CP. Courses also fulfill Texas STEM or Business & Industry graduation endorsements if part of a coherent sequence.
+Majority of my Design and Tech courses at WAIS are designed with regards to IB MYP and CP. Courses also fulfill Texas STEM or Business & Industry graduation endorsements if part of a coherent sequence.
 
 | STEM                             | B & I                       | 
 | -------------------------------- | --------------------------- |
