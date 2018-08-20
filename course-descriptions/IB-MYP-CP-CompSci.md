@@ -10,7 +10,13 @@ Computer Science I will foster students' creativity and innovation by presenting
 
 Our Computer Science course is designed to be an introduction into the ideas and fundamentals of programming for students with limited to no background in programming. That being said, students are expected to have previous knowledge of computers in general, and should be able to utilize basic everyday software and operating systems. No background in specialized software is required.
  
-Do not expect Computer Science to be an easy course. While the content is not technically difficult, is does require thinking and solving problems in a way different from majority of courses in the American education system. The content in this course will build on itself. If you don't intend to remember the concepts and basic code throughout the year, you will struggle as future content will make use of previously used content to reinforce and increase the complexity of what you can create.
+Do not expect Computer Science to be an easy course. While the content is not technically difficult, is does require thinking and solving problems in a way different from majority of courses in the American education system. The content in this course will build on itself. If you don't intend to remember the concepts and basic code throughout the year, you will struggle as future content will make use of previously used content to reinforce and increase the complexity of what you can create. For the course, we use Python with plain text editors, the IDE PyCharm by JetBrains, and documentation and version control with GitHub.
+
+#### As an IB Continuum School
+
+As an IB Continuum School, how we meet the expectations required by the state of Texas may look differently than what you'd see at other schools. The expectations set by Texas rarely match the significantly greater expectations of planning and evaluating found in IB. As such, many educational institutions in Texas expect very little planning and evaluation in their students work, instead often focusing on being able to recall a large amount of content. The International Baccalaureate has a greater focus on planning and evaluating, as well as on application of content instead of recall- especially in the design courses. This is less of an issue in Tech Apps content in Texas, as the newer redefined expectations released in 2012 due reflect greater planning than previous expectations. To what extent and level of focus schools apply to this specific subset of standards will vary, and will mostly likely be less at non-IB campuses.
+ 
+Due to the structure IB expects, our courses tend 'cover' less content, instead choosing to focus on deeper more meaningful interaction between students and content. In the long run, students are better prepared for higher level work, instruction, and the real world. They tend to retain more as well, as they usually actually remember the content due to the significantly deeper understanding of use of content, instead of shallow memorization.
  
 #### Lab Hours
 
@@ -27,7 +33,7 @@ After School: Monday, Tuesday, & Thursday
 
 If you need other accommodations, please see your instructor to make an appointment.
 
-![alt text](../images/compsci.jpg "CC 2.0: Generic | Cropped from Original  | Lejos")
+![alt text](../images/compsci.jpg "CC 2.0: Generic | Cropped & Levels Adjustment  | Anthony Catalano")
 
 
 
