@@ -27,9 +27,9 @@ After School: Monday, Tuesday, & Thursday
 
 If you need other accommodations, please see your instructor to make an appointment.
 
-![alt text](../images/robotics-banner.jpg "Robotics: Programming & Design")
+![alt text](../images/robotics-banner.jpg "CC 2.0: Generic | Cropped from Original  | Lejos")
 
-CC 2.0: Generic | Cropped from Original  | Lejos
+
 
 #### Robotics Course Content
  
@@ -67,7 +67,17 @@ As you are able to work at your own pace, this can sometimes cause a general slo
 
 #### Cheating & Academic Dishonesty
 
-![alt text](../images/cheating.jpg "Collusion")
+![alt text](../images/collusion.jpg "CC 2.0: Generic | Cropped, Grey Scale, Selective Blur  |  Daniel Bentley")
+
+##### Copyright & Intellectual Property:
+
+All forms of academic dishonesty and cheating are taken seriously. Some forms of cheating and academic dishonesty are more self-explanatory than others. When it comes to art, many students struggle with understanding intellectual property. As such, it is generally recommended to avoid using copyrighted materials without first discussing it with your instructor.
+ 
+Many students are under the belief that if it is for education, copyright and intellectual property laws don't apply. This is not the case. Many companies choose not to file charges when copyright or intellectual property laws are violated for educational use, but some companies do, and this doesn't mean they can't choose to at a later point in time. Use of other's works as your own, without proper documentation can result in loss of credit. However, use of copyrighted material can also result in legal issues in addition to any academic woes.
+  
+##### A bit of reading material:
+- [Copyright Crash Course](http://guides.lib.utexas.edu/copyright)
+- [10 Big Myths About Copyright Explained](https://www.templetons.com/brad/copymyths.html)
 
 ##### Collaboration vs Collusion:
 
