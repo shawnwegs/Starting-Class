@@ -63,8 +63,8 @@ For the traditional American education system, this is an elective. An elective 
 To IB, this subject area is just as important as any other, and should require rigorous and significant course work. You are expected to put forth a valiant effort consistently during class and throughout the year. The grade is a reflection of your choices; good or bad.
 
 ##### A bit of reading material:
-- [Why study Computer Science?](https://www.depauw.edu/academics/departments-programs/computer-science/why-study-computer-science/)
-- [6 Surprising Ways Computer Science Benefits Society](https://www.rasmussen.edu/degrees/technology/blog/ways-computer-science-benefits-society/)
+* [Why study Computer Science?](https://www.depauw.edu/academics/departments-programs/computer-science/why-study-computer-science/)
+* [6 Surprising Ways Computer Science Benefits Society](https://www.rasmussen.edu/degrees/technology/blog/ways-computer-science-benefits-society/)
 
 ##### Concerns?
  
