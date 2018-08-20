@@ -6,7 +6,7 @@ TechApps in Texas has six main strands based on the National Education Technolog
 
 Robotics Programming and Design will foster students' creativity and innovation by presenting opportunities to design, implement, and present meaningful robotic programs through a variety of media. Students will collaborate with one another, their instructor, and various electronic communities to solve problems in designing and programming robots. Through data analysis, students will identify task requirements, plan search strategies, and use robotic concepts to access, analyze, and evaluate information needed to solve problems. By using robotic knowledge and skills that support the work of individuals and groups in solving problems, students will select the technology appropriate for the task, synthesize knowledge, create solutions, and evaluate the results. Students will learn digital citizenship by researching current laws and regulations and by practicing integrity and respect. Students will gain an understanding of the principles of robotics through the study of physics, robotics, automation, and engineering design concepts.
  
-#### Course Content
+#### Overview
 
 The course will focus on two main areas. In the fall semester, prototyping a task-oriented robot for reliability and consistancy, and designing and programming a novel in the spring semester. Throughout the year, the course will require students to collaborate, plan, and document their group's and robot's progress and development. Texas considers this a fourth year course. 
 
