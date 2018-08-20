@@ -18,7 +18,7 @@
 * ~~Digital Video & Audio Production~~
 * Independent Study in Tech Apps
 * Independent Study in Emerging Tech
-* [Robotics Programming & Design](https://shawnwegs.github.io/Starting-Class/IB-MYP-CP-robotics)
+* [Robotics Programming & Design](https://shawnwegs.github.io/Starting-Class/IB-MYP-CP-Robotics)
 * Web Design
 * ~~Yearbook~~
 * ~~Yearbook 2~~
