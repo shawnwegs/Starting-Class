@@ -2,9 +2,7 @@
 
 ## Robotics Programming and Design 
 
-![alt text](https://shawnwegs.github.io/Starting-Class/images/robotics-banner.jpg "Robotics: Programming & Design")
-
-TechApps in Texas has six main strands based on the National Education Technology Standards and performance indicators based on the International Society for Technology in Education;  creativity and innovation; communication and collaboration; research and information fluency; critical thinking, problem solving, and decision making; digital citizenship; and technology operations and concepts.
+TechApps in Texas has six main strands based on the National Education Technology Standards and performance indicators based on the International Society for Technology in Education;  creativity and innovation; communication and collaboration; research and information fluency; critical thinking, problem solving, and decision making; digital citizenship; and technology operations and concepts. These are found across the different Tech Apps courses in Texas, including Robotics Programming & Design.
  
 #### Course Content
 
@@ -28,6 +26,10 @@ After School: Monday, Tuesday, & Thursday
 * 3:15 - 4:00 pm
 
 If you need other accommodations, please see your instructor to make an appointment.
+
+![alt text](../images/robotics-banner.jpg "Robotics: Programming & Design")
+
+CC 2.0: Generic | Cropped from Original  | Lejos
 
 #### Robotics Course Content
  
@@ -64,6 +66,8 @@ Majority of content will be delivered through video instruction. This allows you
 As you are able to work at your own pace, this can sometimes cause a general slowdown for some students. Despite being able to watch videos whenever you need, it is important that you keep up with the pace of the course to not end up with a ton of backwork to complete at the midterm or at term's end.
 
 #### Cheating & Academic Dishonesty
+
+![alt text](../images/cheating.jpg "Collusion")
 
 ##### Collaboration vs Collusion:
 
