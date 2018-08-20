@@ -54,7 +54,7 @@ Students often expect Robotics to be an easy course. Technically, it is not a ha
 Students will likely work within several different programming environments during the year, making use of both visual programming and hand coding. Due to the amount of time designing and engineering the robot itself, there will be significantly less coding in this course than in Computer Science and Web Design. If you are interested in programming, it is recommended that you consider enrolling in Computer Science instead of, or in addition to, Robotics.
  
 ##### A bit of reading material:
-- What We Can Learn from Robots
+- [What We Can Learn from Robots](https://www.technologyreview.com/s/403545/what-we-can-learn-from-robots/)
  
 #### Style of Instruction:
 Majority of content will be delivered through video instruction. This allows you to revisit content as often as you need, as well as to be able to slow down, speed up, or repeat content as often as you need. This also allows your instructor to work with and help students or groups of students when they need, without stopping the content for the rest of students.
@@ -70,8 +70,8 @@ All forms of academic dishonesty and cheating are taken seriously. Some forms of
 Research, as well as personal experience, shows that students tend to understand content better when working with and discussing content with other students. Some assignments will actually require it. However, it is important that the aid and assistance you receive, or that you provide, is authorized. If you are physically touching another student's keyboard, mouse, or sending complete or partial chunks of code, you are likely engaging in collusion, not collaboration. If unsure, it's better to ask. Collusion is a form of academic dishonesty and can result in loss of credit for all parties involved.
   
 ##### A bit of reading material:
-- Crossing the Line: Collusion or Collaboration...  
-- Robert College's Collaboration Guidelines
+- [Crossing the Line: Collusion or Collaboration...](https://files.eric.ed.gov/fulltext/EJ1004398.pdf)
+- [Robert College's Collaboration Guidelines](http://webportal.robcol.k12.tr/Academics/Academic-Honesty/CollaborationGuidelines/Pages/default.aspx)
  
 #### CMS / LMS:
 We will use ManageBac.
