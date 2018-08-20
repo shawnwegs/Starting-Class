@@ -6,7 +6,7 @@ TechApps in Texas has six main strands based on the National Education Technolog
 
 Computer Science I will foster students' creativity and innovation by presenting opportunities to design, implement, and present meaningful programs through a variety of media. Students will collaborate with one another, their instructor, and various electronic communities to solve the problems presented throughout the course. Through data analysis, students will identify task requirements, plan search strategies, and use computer science concepts to access, analyze, and evaluate information needed to solve problems. By using computer science knowledge and skills that support the work of individuals and groups in solving problems, students will select the technology appropriate for the task, synthesize knowledge, create solutions, and evaluate the results. Students will learn digital citizenship by researching current laws and regulations and by practicing integrity and respect. Students will gain an understanding of the principles of computer science through the study of technology operations, systems, and concepts.
  
-#### Course Content
+#### Course Summary
 
 Our Computer Science course is designed to be an introduction into the ideas and fundamentals of programming for students with limited to no background in programming. That being said, students are expected to have previous knowledge of computers in general, and should be able to utilize basic everyday software and operating systems. No background in specialized software is required.
  
