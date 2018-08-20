@@ -58,19 +58,28 @@ Our Computer Science course spans across 2 semesters. The course is broken up in
 * Object Oriented Programming
 * Design your own Text-based Game
 
-Students often expect Robotics to be an easy course. Technically, it is not a hard course. However, students are often used to being told the answer, or able to just find the answer. Robotics is a course that requires students to design, document, and create their own answers, then defend those answers. Due to how limited this is in the American education system, it is not unusual for students to find the class difficult due to having to work and think in a way they are not used to. In addition, students will be accountable both as an individual and as a group member, which some students also struggle with.
- 
-Students will likely work within several different programming environments during the year, making use of both visual programming and hand coding. Due to the amount of time designing and engineering the robot itself, there will be significantly less coding in this course than in Computer Science and Web Design. If you are interested in programming, it is recommended that you consider enrolling in Computer Science instead of, or in addition to, Robotics.
- 
+For the traditional American education system, this is an elective. An elective does not mean you get a free A. An elective actually means you don't have to pass. You can excel in, barely pass, or fail this class. Which ever result you choose to pursue will be on your transcript, will affect your GPA, and will be included in what is sent to colleges and universities.
+ 
+To IB, this subject area is just as important as any other, and should require rigorous and significant course work. You are expected to put forth a valiant effort consistently during class and throughout the year. The grade is a reflection of your choices; good or bad.
+
 ##### A bit of reading material:
-- [What We Can Learn from Robots](https://www.technologyreview.com/s/403545/what-we-can-learn-from-robots/)
+- [Why study Computer Science?](https://www.depauw.edu/academics/departments-programs/computer-science/why-study-computer-science/)
+- [6 Surprising Ways Computer Science Benefits Society](https://www.rasmussen.edu/degrees/technology/blog/ways-computer-science-benefits-society/)
+
+##### Concerns?
+ 
+The bare minimum for passing in this region is a 70. If you are not doing the minimum of what is expected, you will most likely score below that. If you are just doing the minimum, your grade will likely fall around there. To excel, you should be creating work above the minimum expectations. If you are interested in programming, but are concerned about jumping into Computer Science 1, It's ok! The whole point of this course is to learn how to program. You aren't expected to already know how to program- where would you learn how if CS1 already expected you to know?
+
+If you've never worked with code before, you can still do just fine. If you've taken Tech/Design courses already at WAIS, you've probably already worked with at least a little bit of code. Most of our Tech/Design courses have a couple assignments utilizing code to get you a little more comfortable with it.
+ 
+If you're really concerned about working with code; consider looking into Fundamentals of CompSci and/or Digital Communications before taking Computer Science 1. We might not use the same languages, but you'll still learn how to create with code and be more comfortable in text-based environments.
  
 #### Style of Instruction:
 Majority of content will be delivered through video instruction. This allows you to revisit content as often as you need, as well as to be able to slow down, speed up, or repeat content as often as you need. This also allows your instructor to work with and help students or groups of students when they need, without stopping the content for the rest of students.
  
 As you are able to work at your own pace, this can sometimes cause a general slowdown for some students. Despite being able to watch videos whenever you need, it is important that you keep up with the pace of the course to not end up with a ton of backwork to complete at the midterm or at term's end.
 
-![alt text](../images/collusion.jpg "CC 2.0: Generic | Cropped, Grey Scale, Selective Blur  |  Daniel Bentley")
+![alt text](../images/cheating.jpg "CC 2.0: Generic | Cropped, Grey Scale, Selective Blur  |  Craig Sunter")
 
 #### Cheating & Academic Dishonesty
 
