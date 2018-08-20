@@ -6,21 +6,23 @@ TechApps in Texas has six main strands based on the National Education Technolog
  
 #### Course Content
 
-The course will focus on two main areas. In the fall semester, prototyping a task-oriented robot for reliability and consistancy, and designing and programming a novel in the spring semester. Throughout the year, the course will require students to collaborate, plan, and document their group's and robot's progress and development. The course does not require previous experience, but students will need to expect a large amount of work to be completed throughout the duration of the course.
+The course will focus on two main areas. In the fall semester, prototyping a task-oriented robot for reliability and consistancy, and designing and programming a novel in the spring semester. Throughout the year, the course will require students to collaborate, plan, and document their group's and robot's progress and development. Texas considers this a fourth year course. 
+
+The course does not require previous experience, but it certainly helps. Students without prior experience will likely need to expect a large amount of work to be completed throughout the duration of the course. Prior courses that help prepare students for Robotics are Intro to Robotics & Intro to CS at 8th grade, and Fundamentals and other Computer Science courses in high school. Other tech courses, including Digital Communications, Web Design, and Digital Art can also help prepare students to a lesser extent.
  
-We will work with the NXT robots, utilizing the LeJOS firmware and library. Our primary IDE will be IntelliJ IDEA from JetBrains.
+We will work with the NXT robots, utilizing the LeJOS firmware and library. Our primary IDE will be IntelliJ IDEA from JetBrains. Through this course, you will gain experience in both programming with Java and in small-scale engineering.
  
 #### Lab Hours
 
-Lab hours available for extra time or additional help. If you need guidance, please schedule an appointment. If you just need extra work time, pop-ins are allowed.
+Lab hours available for extra time or additional help. If you need guidance, please schedule an appointment. If you just need extra work time, pop-ins are allowed. If you choose not to work in class and are a distraction to others, and then ask to come in for extra time, you will likely be denied extra time. You should make use of the time you already have in scheduled class before requesting more.
 
-Wednesday - Friday
+Before School: Tuesday - Thursday
 * 7:15 - 7:45 am
 
-Monday - Thursday
-* 12:55 - 1:35 pm
+Lunch: A Days Only
+* 12:55 - 1:30 pm
 
-Monday & Thursday
+After School: Monday, Tuesday, & Thursday
 * 3:15 - 4:00 pm
 
 If you need other accommodations, please see your instructor to make an appointment.
