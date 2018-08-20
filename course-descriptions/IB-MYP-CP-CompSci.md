@@ -8,11 +8,9 @@ Computer Science I will foster students' creativity and innovation by presenting
  
 #### Course Content
 
-The course will focus on two main areas. In the fall semester, prototyping a task-oriented robot for reliability and consistancy, and designing and programming a novel in the spring semester. Throughout the year, the course will require students to collaborate, plan, and document their group's and robot's progress and development. Texas considers this a fourth year course. 
-
-The course does not require previous experience, but it certainly helps. Students without prior experience will likely need to expect a large amount of work to be completed throughout the duration of the course. Prior courses that help prepare students for Robotics are Intro to Robotics & Intro to CS at 8th grade, and Fundamentals and other Computer Science courses in high school. Other tech courses, including Digital Communications, Web Design, and Digital Art can also help prepare students to a lesser extent.
- 
-We will work with the NXT robots, utilizing the LeJOS firmware and library. Our primary IDE will be IntelliJ IDEA from JetBrains. Through this course, you will gain experience in both programming with Java and in small-scale engineering.
+Our Computer Science course is designed to be an introduction into the ideas and fundamentals of programming for students with limited to no background in programming. That being said, students are expected to have previous knowledge of computers in general, and should be able to utilize basic everyday software and operating systems. No background in specialized software is required.
+ 
+Do not expect Computer Science to be an easy course. While the content is not technically difficult, is does require thinking and solving problems in a way different from majority of courses in the American education system. The content in this course will build on itself. If you don't intend to remember the concepts and basic code throughout the year, you will struggle as future content will make use of previously used content to reinforce and increase the complexity of what you can create.
  
 #### Lab Hours
 
@@ -29,7 +27,7 @@ After School: Monday, Tuesday, & Thursday
 
 If you need other accommodations, please see your instructor to make an appointment.
 
-![alt text](../images/robotics-banner.jpg "CC 2.0: Generic | Cropped from Original  | Lejos")
+![alt text](../images/compsci.jpg "CC 2.0: Generic | Cropped from Original  | Lejos")
 
 
 
