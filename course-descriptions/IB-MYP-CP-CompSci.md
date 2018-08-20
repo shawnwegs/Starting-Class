@@ -8,7 +8,7 @@ Computer Science I will foster students' creativity and innovation by presenting
  
 #### Course Summary
 
-Our Computer Science course is designed to be an introduction into the ideas and fundamentals of programming for students with limited to no background in programming. That being said, students are expected to have previous knowledge of computers in general, and should be able to utilize basic everyday software and operating systems. No background in specialized software is required.
+Don't just learn about computers, learn about how they work, how they think, and how to make them do what you want. We'll create a variety programs throughout the year, and you'll have to apply CS concepts to plan and create a couple of your own.
  
 Do not expect Computer Science to be an easy course. While the content is not technically difficult, is does require thinking and solving problems in a way different from majority of courses in the American education system. The content in this course will build on itself. If you don't intend to remember the concepts and basic code throughout the year, you will struggle as future content will make use of previously used content to reinforce and increase the complexity of what you can create. For the course, we use Python with plain text editors, the IDE PyCharm by JetBrains, and documentation and version control with GitHub.
 
@@ -37,27 +37,26 @@ If you need other accommodations, please see your instructor to make an appointm
 
 
 
-#### Robotics Course Content
+#### Computer Science Course Content
  
-This course introduces programming robots with a professional level IDE using raw code in the Java language. It is beneficial if students come into the course with some pre-existing knowledge. If students are not already comfortable with computers, they may find this course difficult. It would be beneficial to do well in Digital Communications, Computer Science 1, Fundamentals of Computer Science, Intro to Computer Science, or Intro to Robotics before taking this course.
+Our Computer Science course is designed to be an introduction into the ideas and fundamentals of programming for students with limited to no background in programming. That being said, students are expected to have previous knowledge of computers in general, and should be able to utilize basic everyday software and operating systems. No background in specialized software is required.
+ 
+All students will learn how to create multiple programs by the end of the course. Students will have to plan and design their own programs, both independently and in working with others. The concepts of computer science and programming are embedded into the creation of various programs, there is an increased focus on planning, researching, and creating products in comparison to other Computer Science programs.
 
-Our Robotics Programming & Design course is designed to be an introduction into the ideas and fundamentals of robotics for students with limited background in programming and little or no background in robotics. Students are expected to have previous knowledge of computers in general, and should be able to utilize basic everyday software and operating systems. Throughout the course, students will have to work both individually and with different groups of their peers. Students who choose not to do one or the other will struggle to score acceptable marks. No background in specialized software is required.
+Our Computer Science course spans across 2 semesters. The course is broken up into 2 massive units.
 
-Our introductory Robotics course spans across 2 semesters. The course is broken up into 2 massive units.
+**Fall Unit: Classical Encryption**
+* What is Programming?
+* Basic Programming in Python
+* Origins of Programming
+* Basic Encryption Techniques
+* Design and Program a Rough Encryption Method
 
-**Fall Unit: Prototyping & Engineering**
-* What is a Robot?
-* How to Program a Robot
-* Sketching & Documentation
-* The Importance of Reliability
-* Proving and Defending
-
-**Spring Unit: Animatronics & Imitation**
-* Imitating Life
-* Integrating Tech into Life
-* Stimulus & Response
-* Analyzing Behavior
-* Artificial Intelligence
+**Spring Unit: Text-based Games**
+* History of Video Games
+* Game Loops & Algorithm-planning
+* Object Oriented Programming
+* Design your own Text-based Game
 
 Students often expect Robotics to be an easy course. Technically, it is not a hard course. However, students are often used to being told the answer, or able to just find the answer. Robotics is a course that requires students to design, document, and create their own answers, then defend those answers. Due to how limited this is in the American education system, it is not unusual for students to find the class difficult due to having to work and think in a way they are not used to. In addition, students will be accountable both as an individual and as a group member, which some students also struggle with.
  
