@@ -13,6 +13,7 @@ We will work with the NXT robots, utilizing the LeJOS firmware and library. Our 
 #### Lab Hours
 
 Lab hours available for extra time or additional help. If you need guidance, please schedule an appointment. If you just need extra work time, pop-ins are allowed.
+
 Wednesday - Friday
 * 7:15 - 7:45 am
 
