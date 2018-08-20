@@ -64,6 +64,7 @@ To IB, this subject area is just as important as any other, and should require r
 
 ##### A bit of reading material:
 -[Why study Computer Science?](https://www.depauw.edu/academics/departments-programs/computer-science/why-study-computer-science/)
+
 -[6 Surprising Ways Computer Science Benefits Society](https://www.rasmussen.edu/degrees/technology/blog/ways-computer-science-benefits-society/)
 
 ##### Concerns?
@@ -91,6 +92,7 @@ Many students are under the belief that if it is for education, copyright and in
   
 ##### A bit of reading material:
 -[Copyright Crash Course](http://guides.lib.utexas.edu/copyright)
+
 -[10 Big Myths About Copyright Explained](https://www.templetons.com/brad/copymyths.html)
 
 ##### Collaboration vs Collusion:
@@ -101,6 +103,7 @@ Research, as well as personal experience, shows that students tend to understand
   
 ##### A bit of reading material:
 -[Crossing the Line: Collusion or Collaboration...](https://files.eric.ed.gov/fulltext/EJ1004398.pdf)
+
 -[Robert College's Collaboration Guidelines](http://webportal.robcol.k12.tr/Academics/Academic-Honesty/CollaborationGuidelines/Pages/default.aspx)
  
 #### CMS / LMS:
