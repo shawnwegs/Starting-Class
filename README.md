@@ -24,6 +24,9 @@
 * ~~Yearbook 2~~
 * ~~Yearbook 3~~
 
+#### Setting Up Your GitHub Page
+* [How to Setup your GitHub Page](https://shawnwegs.github.io/guide-for-web-camp/)
+
 #### Scavenger Hunt
 * Computer Science 1
 * Computer Science 2
