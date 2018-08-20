@@ -13,6 +13,12 @@ The course will focus on two main areas. In the fall semester, prototyping a tas
 The course does not require previous experience, but it certainly helps. Students without prior experience will likely need to expect a large amount of work to be completed throughout the duration of the course. Prior courses that help prepare students for Robotics are Intro to Robotics & Intro to CS at 8th grade, and Fundamentals and other Computer Science courses in high school. Other tech courses, including Digital Communications, Web Design, and Digital Art can also help prepare students to a lesser extent.
  
 We will work with the NXT robots, utilizing the LeJOS firmware and library. Our primary IDE will be IntelliJ IDEA from JetBrains. Through this course, you will gain experience in both programming with Java and in small-scale engineering.
+
+#### As an IB Continuum School
+
+As an IB Continuum School, how we meet the expectations required by the state of Texas may look differently than what you'd see at other schools. The expectations set by Texas rarely match the significantly greater expectations of planning and evaluating found in IB. As such, many educational institutions in Texas expect very little planning and evaluation in their students work, instead often focusing on being able to recall a large amount of content. The International Baccalaureate has a greater focus on planning and evaluating, as well as on application of content instead of recall- especially in the design courses. This is less of an issue in Tech Apps content in Texas, as the newer redefined expectations released in 2012 due reflect greater planning than previous expectations. To what extent and level of focus schools apply to this specific subset of standards will vary, and will mostly likely be less at non-IB campuses.
+ 
+Due to the structure IB expects, our courses tend 'cover' less content, instead choosing to focus on deeper more meaningful interaction between students and content. In the long run, students are better prepared for higher level work, instruction, and the real world. They tend to retain more as well, as they usually actually remember the content due to the significantly deeper understanding of use of content, instead of shallow memorization.
  
 #### Lab Hours
 
