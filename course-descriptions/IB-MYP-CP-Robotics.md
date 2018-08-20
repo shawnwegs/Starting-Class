@@ -45,7 +45,7 @@ This course introduces programming robots with a professional level IDE using ra
 
 Our Robotics Programming & Design course is designed to be an introduction into the ideas and fundamentals of robotics for students with limited background in programming and little or no background in robotics. Students are expected to have previous knowledge of computers in general, and should be able to utilize basic everyday software and operating systems. Throughout the course, students will have to work both individually and with different groups of their peers. Students who choose not to do one or the other will struggle to score acceptable marks. No background in specialized software is required.
 
-Our introductory Robotics course spans across 2 semesters. The course is broken up into 2 massive units.
+Our Robotics course spans across 2 semesters. The course is broken up into 2 massive units.
 
 **Fall Unit: Prototyping & Engineering**
 * What is a Robot?
