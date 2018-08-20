@@ -69,7 +69,7 @@ To IB, this subject area is just as important as any other, and should require r
 ##### Concerns?
  
 The bare minimum for passing in this region is a 70. If you are not doing the minimum of what is expected, you will most likely score below that. If you are just doing the minimum, your grade will likely fall around there. To excel, you should be creating work above the minimum expectations. If you are interested in programming, but are concerned about jumping into Computer Science 1, It's ok! The whole point of this course is to learn how to program. You aren't expected to already know how to program- where would you learn how if CS1 already expected you to know?
-
+ 
 If you've never worked with code before, you can still do just fine. If you've taken Tech/Design courses already at WAIS, you've probably already worked with at least a little bit of code. Most of our Tech/Design courses have a couple assignments utilizing code to get you a little more comfortable with it.
  
 If you're really concerned about working with code; consider looking into Fundamentals of CompSci and/or Digital Communications before taking Computer Science 1. We might not use the same languages, but you'll still learn how to create with code and be more comfortable in text-based environments.
