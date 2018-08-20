@@ -13,14 +13,14 @@ We will work with the NXT robots, utilizing the LeJOS firmware and library. Our 
 #### Lab Hours
 
 Lab hours available for extra time or additional help. If you need guidance, please schedule an appointment. If you just need extra work time, pop-ins are allowed.
-	▪	Wednesday - Friday
-	▪	7:15 - 7:45 am
+Wednesday - Friday
+* 7:15 - 7:45 am
   
-	▪	Monday - Thursday
-	▪	12:55 - 1:35 pm
-	▪	 
-	▪	Monday & Thursday
-	▪	3:15 - 4:00 pm
+Monday - Thursday
+* 12:55 - 1:35 pm
+		 
+Monday & Thursday
+* 3:15 - 4:00 pm
  
 If you need other accommodations, please see your instructor to make an appointment.
 
@@ -33,18 +33,18 @@ Our Robotics Programming & Design course is designed to be an introduction into 
 Our introductory Robotics course spans across 2 semesters. The course is broken up into 2 massive units.
  
 Fall Unit: Prototyping & Engineering
- * What is a Robot?
- * How to Program a Robot
- * Sketching & Documentation
- * The Importance of Reliability
- * Proving and Defending
+* What is a Robot?
+* How to Program a Robot
+* Sketching & Documentation
+* The Importance of Reliability
+* Proving and Defending
  
 Spring Unit: Animatronics & Imitation
- * Imitating Life
- * Integrating Tech into Life
- * Stimulus & Response
- * Analyzing Behavior
- * Artificial Intelligence
+* Imitating Life
+* Integrating Tech into Life
+* Stimulus & Response
+* Analyzing Behavior
+* Artificial Intelligence
  
 Students often expect Robotics to be an easy course. Technically, it is not a hard course. However, students are often used to being told the answer, or able to just find the answer. Robotics is a course that requires students to design, document, and create their own answers, then defend those answers. Due to how limited this is in the American education system, it is not unusual for students to find the class difficult due to having to work and think in a way they are not used to. In addition, students will be accountable both as an individual and as a group member, which some students also struggle with.
  
