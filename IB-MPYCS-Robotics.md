@@ -38,14 +38,14 @@ Fall Unit: Prototyping & Engineering
 * Sketching & Documentation
 * The Importance of Reliability
 * Proving and Defending
- 
+
 Spring Unit: Animatronics & Imitation
 * Imitating Life
 * Integrating Tech into Life
 * Stimulus & Response
 * Analyzing Behavior
 * Artificial Intelligence
- 
+
 Students often expect Robotics to be an easy course. Technically, it is not a hard course. However, students are often used to being told the answer, or able to just find the answer. Robotics is a course that requires students to design, document, and create their own answers, then defend those answers. Due to how limited this is in the American education system, it is not unusual for students to find the class difficult due to having to work and think in a way they are not used to. In addition, students will be accountable both as an individual and as a group member, which some students also struggle with.
  
 Students will likely work within several different programming environments during the year, making use of both visual programming and hand coding. Due to the amount of time designing and engineering the robot itself, there will be significantly less coding in this course than in Computer Science and Web Design. If you are interested in programming, it is recommended that you consider enrolling in Computer Science instead of, or in addition to, Robotics.
