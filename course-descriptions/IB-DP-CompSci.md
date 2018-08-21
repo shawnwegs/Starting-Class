@@ -6,40 +6,27 @@ General requirements. Students shall be awarded one to two credits for successfu
 
 Content requirements. Content requirements for International Baccalaureate (IB) Computer Science, Higher Level are prescribed by the International Baccalaureate Organization. Curriculum guides may be obtained from International Baccalaureate of North America. 
 
-#### Course Summary
+![alt text](../images/compsci2.jpg "CC 2.0: Generic | Cropped  | Kim Burgess")
+
+#### An IB DP Course
 
 Computer science is regarded as an experimental science, alongside biology, chemistry, design technology, physics and environmental systems and societies. All computer science students will work with other students of group 4 subjects (physics, chemistry, biology and design technology).
 
 The IB computer science course is a rigorous and practical problem-solving discipline. Computational thinking lies at the heart of the course and is integrated with other topics. This will be supported by practical activities including programming. On Externally assessed papers, algorithmic thinking will only be externally assessed at the level of pseudo-code. Practical programming experience will be an essential element of developing higher-level thinking skills; this is assessed as a part of the internal assessment. There is no designated language.
  
-Do not expect Computer Science to be an easy course. While the content is not technically difficult, is does require thinking and solving problems in a way different from majority of courses in the American education system. The content in this course will build on itself. If you don't intend to remember the concepts and basic code throughout the year, you will struggle as future content will make use of previously used content to reinforce and increase the complexity of what you can create. For the course, we use Python with plain text editors, the IDE PyCharm by JetBrains, and documentation and version control with GitHub.
+The MYP technology and design courses develop skills linked to the design cycle, which provides the model of thinking and the strategy used to help students investigate problems and design, plan, create and evaluate the product. Students continuing on to the IB Diploma Programme will have experienced the use of the design cycle and will have developed critical-thinking and design skills, which they will be able to apply and extend in computer science. The Diploma Programme computer science course requires students to become actively involved in, and to focus on, the whole design process as well as the final product, building on the skills acquired during the MYP technology course. In order to complete the IB Diploma Programme computer science internal assessment successfully, students are expected to create a solution to a specific problem using the design cycle, which extends the range of skills developed in MYP technology.
 
-#### As an IB Continuum School
+There is no one scientific method of gaining knowledge or of finding explanations for the behaviour of the natural world. Computer science works through a variety of approaches to produce these explanations, but they all rely on data from observations and have a common underpinning rigour, whether using inductive or deductive reasoning. Computer science requires freedom of thought and open-mindedness, and an essential part of the process of science is the way the international computer science community shares ideas through academic papers, conferences and open forums.
 
-As an IB Continuum School, how we meet the expectations required by the state of Texas may look differently than what you'd see at other schools. The expectations set by Texas rarely match the significantly greater expectations of planning and evaluating found in IB. As such, many educational institutions in Texas expect very little planning and evaluation in their students work, instead often focusing on being able to recall a large amount of content. The International Baccalaureate has a greater focus on planning and evaluating, as well as on application of content instead of recall- especially in the design courses. This is less of an issue in Tech Apps content in Texas, as the newer redefined expectations released in 2012 due reflect greater planning than previous expectations. To what extent and level of focus schools apply to this specific subset of standards will vary, and will mostly likely be less at non-IB campuses.
- 
-Due to the structure IB expects, our courses tend 'cover' less content, instead choosing to focus on deeper more meaningful interaction between students and content. In the long run, students are better prepared for higher level work, instruction, and the real world. They tend to retain more as well, as they usually actually remember the content due to the significantly deeper understanding of use of content, instead of shallow memorization.
- 
-#### Lab Hours
+#### Course Tools
 
-Lab hours available for extra time or additional help. If you need guidance, please schedule an appointment. If you just need extra work time, pop-ins are allowed. If you choose not to work in class and are a distraction to others, and then ask to come in for extra time, you will likely be denied extra time. You should make use of the time you already have in scheduled class before requesting more.
+For the course, we will use JavaScript as our primary language. This will partner with HTML and CSS. With expansive use across the world due to rapid explosion of the web in the late 90's and early 00's, library support is extensive and varied. New powerful libraries and frameworks, like Ryan Dahl's Node.js and GitHub's Electron respectively, have pushed the lanauge's prior limitations. JavaScript is positioned to become the next super language. 
 
-Before School: Tuesday - Thursday
-* 7:15 - 7:45 am
-
-Lunch: A Days Only
-* 12:55 - 1:30 pm
-
-After School: Monday, Tuesday, & Thursday
-* 3:15 - 4:00 pm
-
-If you need other accommodations, please see your instructor to make an appointment.
-
-![alt text](../images/compsci2.jpg "CC 2.0: Generic | Cropped  | Kim Burgess")
+As we work with JavaScript, we'll predominately work with GitHub's Atom IDE. We'll also work directly with GitHub's online repository system to store code and documentation. Completed coursework will be submitted to ManageBac. While IB has a specific order they've listed content, our order won't be exactly the same. General recommendation from other teachers is to learn about and practice programming throughout the course, and I absolutely agree with it.
 
 
 
-#### Computer Science Course Content
+#### Rough Outline of Curriculum
  
 Our Computer Science course is designed to be an introduction into the ideas and fundamentals of programming for students with limited to no background in programming. That being said, students are expected to have previous knowledge of computers in general, and should be able to utilize basic everyday software and operating systems. No background in specialized software is required.
  
@@ -72,6 +59,21 @@ Majority of content will be delivered through video instruction. This allows you
  
 As you are able to work at your own pace, this can sometimes cause a general slowdown for some students. Despite being able to watch videos whenever you need, it is important that you keep up with the pace of the course to not end up with a ton of backwork to complete at the midterm or at term's end.
 
+#### Lab Hours
+
+Lab hours available for extra time or additional help. If you need guidance, please schedule an appointment. If you just need extra work time, pop-ins are allowed. If you choose not to work in class and are a distraction to others, and then ask to come in for extra time, you will likely be denied extra time. You should make use of the time you already have in scheduled class before requesting more.
+
+Before School: Tuesday - Thursday
+* 7:15 - 7:45 am
+
+Lunch: A Days Only
+* 12:55 - 1:30 pm
+
+After School: Monday, Tuesday, & Thursday
+* 3:15 - 4:00 pm
+
+If you need other accommodations, please see your instructor to make an appointment.
+
 ![alt text](../images/cheating.jpg "CC 2.0: Generic | Cropped, Grey Scale, Selective Blur  |  Craig Sunter")
 
 #### Cheating & Academic Dishonesty
@@ -97,6 +99,3 @@ Research, as well as personal experience, shows that students tend to understand
 -[Crossing the Line: Collusion or Collaboration...](https://files.eric.ed.gov/fulltext/EJ1004398.pdf)
 
 -[Robert College's Collaboration Guidelines](http://webportal.robcol.k12.tr/Academics/Academic-Honesty/CollaborationGuidelines/Pages/default.aspx)
- 
-#### CMS / LMS:
-We will use ManageBac.
