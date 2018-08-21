@@ -20,30 +20,23 @@ There is no one scientific method of gaining knowledge or of finding explanation
 
 #### Course Tools
 
-For the course, we will use JavaScript as our primary language. This will partner with HTML and CSS. With expansive use across the world due to rapid explosion of the web in the late 90's and early 00's, library support is extensive and varied. New powerful libraries and frameworks, like Ryan Dahl's Node.js and GitHub's Electron respectively, have pushed the lanauge's prior limitations. JavaScript is positioned to become the next super language. 
-
-As we work with JavaScript, we'll predominately work with GitHub's Atom IDE. We'll also work directly with GitHub's online repository system to store code and documentation. Completed coursework will be submitted to ManageBac. While IB has a specific order they've listed content, our order won't be exactly the same. General recommendation from other teachers is to learn about and practice programming throughout the course, and I absolutely agree with it.
-
-
+For the course, we will use JavaScript as our primary language. This will partner with HTML and CSS. With expansive use across the world due to rapid explosion of the web in the late 90's and early 00's, library support is extensive and varied. New powerful libraries and frameworks, like Ryan Dahl's Node.js and GitHub's Electron respectively, have pushed the lanauge's prior limitations. JavaScript is positioned to become the next super language. As we work with JavaScript, we'll predominately work with GitHub's Atom IDE. We'll also work directly with GitHub's online repository system to store code and documentation. Completed coursework will be submitted to ManageBac. 
 
 #### Rough Outline of Curriculum
  
-Our Computer Science course is designed to be an introduction into the ideas and fundamentals of programming for students with limited to no background in programming. That being said, students are expected to have previous knowledge of computers in general, and should be able to utilize basic everyday software and operating systems. No background in specialized software is required.
+While IB has a specific order they've listed content, our order won't be exactly the same. General recommendation from other teachers is to learn about and practice programming throughout the course, and I absolutely agree with it.
  
-All students will learn how to create multiple programs by the end of the course. Students will have to plan and design their own programs, both independently and in working with others. The concepts of computer science and programming are embedded into the creation of various programs, there is an increased focus on planning, researching, and creating products in comparison to other Computer Science programs.
+**There are four core topics within IB CS DP**
+* 1. System Fundamentals
+* 2. Computer Organization
+* 3. Networks
+* 4. Computational Thinking, Problem Solving, and Programming
 
-Our Computer Science II course spans across 2 semesters. The course is broken up into 2 massive units.
-
-**Fall Unit: Programming & Graphics**
-* Work with graphics libraries
-* Create simple fractals
-* Build basic GUI's
-* Design a graphics-oriented program
-
-**Spring Unit: Programming and Data Visualization**
-* Work with visualization libraries
-* Lean the basics of data-science
-* Design a program that visualizes data
+**Options**
+* A. Databases
+* B. Modeling & Simulation
+* C. Web Science
+* D. Object-oriented Programming (OOP)
 
 For the traditional American education system, this is an elective. An elective does not mean you get a free A. An elective actually means you don't have to pass. You can excel in, barely pass, or fail this class. Which ever result you choose to pursue will be on your transcript, will affect your GPA, and will be included in what is sent to colleges and universities.
  
