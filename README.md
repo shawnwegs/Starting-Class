@@ -15,7 +15,7 @@
 * Digital Art & Animation
 * ~~Digital Communications~~
 * ~~Digital Design & Media Production~~
-* ~~Digital Video & Audio Production~~
+* Digital Video & Audio Production
 * Independent Study in Tech Apps
 * Independent Study in Emerging Tech
 * [Robotics Programming & Design](https://shawnwegs.github.io/Starting-Class/course-descriptions/IB-MYP-CP-Robotics)
@@ -35,7 +35,7 @@
 * Digital Art & Animation
 * ~~Digital Communications~~
 * ~~Digital Design & Media Production~~
-* ~~Digital Video & Audio Production~~
+* Digital Video & Audio Production
 * Independent Study in Tech Apps
 * Independent Study in Emerging Tech
 * Robotics Programming & Design
