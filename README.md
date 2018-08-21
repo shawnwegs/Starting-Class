@@ -1,6 +1,9 @@
 # Design & CS Courses at WAIS
 ###### With S.Wegscheid
 
+#### Setting Up Your GitHub Page
+* [How to Setup your GitHub Page](https://shawnwegs.github.io/Guide-to-Setup-GH-Pages/)
+
 #### General Syllabus
 * IB MYP Middle School
 * [IB MYP Upper School](https://shawnwegs.github.io/Starting-Class/IB-MYP-US-syllabus)
@@ -23,9 +26,6 @@
 * ~~Yearbook~~
 * ~~Yearbook 2~~
 * ~~Yearbook 3~~
-
-#### Setting Up Your GitHub Page
-* [How to Setup your GitHub Page](https://shawnwegs.github.io/Guide-to-Setup-GH-Pages/)
 
 #### Scavenger Hunt
 * Computer Science 1
