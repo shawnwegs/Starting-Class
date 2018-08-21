@@ -8,8 +8,8 @@
 * [IB DP CS](https://shawnwegs.github.io/Starting-Class/IB-DP-CS-syllabus)
 
 #### Course Description
-* Computer Science 1
-* Computer Science 2
+* [Computer Science 1](https://shawnwegs.github.io/Starting-Class/course-descriptions/IB-MYP-CP-CompSci)
+* [Computer Science 2](https://shawnwegs.github.io/Starting-Class/course-descriptions/IB-MYP-CP-CompSci2)
 * ~~Computer Science 3~~
 * Computer Science Diploma-Level
 * Digital Art & Animation
