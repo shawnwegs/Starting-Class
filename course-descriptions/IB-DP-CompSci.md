@@ -33,24 +33,20 @@ While IB has a specific order they've listed content, our order won't be exactly
 * 4. Computational Thinking, Problem Solving, and Programming
 
 **Options**
-* A. Databases
-* B. Modeling & Simulation
+* A. ~~Databases~~
+* *B. Modeling & Simulation*
 * C. Web Science
-* D. Object-oriented Programming (OOP)
+* D. ~~Object-oriented Programming (OOP)~~
 
-For the traditional American education system, this is an elective. An elective does not mean you get a free A. An elective actually means you don't have to pass. You can excel in, barely pass, or fail this class. Which ever result you choose to pursue will be on your transcript, will affect your GPA, and will be included in what is sent to colleges and universities.
- 
-To IB, this subject area is just as important as any other, and should require rigorous and significant course work. You are expected to put forth a valiant effort consistently during class and throughout the year. The grade is a reflection of your choices; good or bad.
+We will cover Modeling & Simulation in this course. As we work with JavaScript, and as students may also choose to take the Web Design MYP/CP elective, students may have a strong enough understanding to consider answering Option C questions on the external assesments.
 
 ##### A bit of reading material:
--[Why study Computer Science?](https://www.depauw.edu/academics/departments-programs/computer-science/why-study-computer-science/)
+-[IB DP CS Subject Brief](https://www.ibo.org/globalassets/publications/recognition/4_computersl.pdf)
 
--[6 Surprising Ways Computer Science Benefits Society](https://www.rasmussen.edu/degrees/technology/blog/ways-computer-science-benefits-society/)
+-[Overview of the IB DP CS IA](http://ib.compscihub.net/internal-assessment/overview)
  
 #### Style of Instruction:
-Majority of content will be delivered through video instruction. This allows you to revisit content as often as you need, as well as to be able to slow down, speed up, or repeat content as often as you need. This also allows your instructor to work with and help students or groups of students when they need, without stopping the content for the rest of students.
- 
-As you are able to work at your own pace, this can sometimes cause a general slowdown for some students. Despite being able to watch videos whenever you need, it is important that you keep up with the pace of the course to not end up with a ton of backwork to complete at the midterm or at term's end.
+We're sort of figuring this out as we go. It will likely be a mix of direct instruction, research, and video resources.
 
 #### Lab Hours
 
