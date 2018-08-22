@@ -2,13 +2,11 @@
 
 ## IB Diploma Computer Science SL
 
-General requirements. Students shall be awarded one to two credits for successful completion of this course. Recommended prerequisites: Computer Science I, Algebra II.
+Students shall be awarded two credits for successful completion of this course. IB DP CS is not limited to just programming. It includes a fair amount of generalized computer information as well. While it is not required, we recommend taking several tech courses prior to enrolling in IB DP CS. 
 
-Content requirements. Content requirements for International Baccalaureate (IB) Computer Science, Higher Level are prescribed by the International Baccalaureate Organization. Curriculum guides may be obtained from International Baccalaureate of North America. 
+Recommended prerequisites from Texas: Computer Science I & Algebra II. Computer Science 1 is an intermediate-level course, not introductory level. Prior to taking Computer Science 1, it is recommended for students to complete Fundamentals of CS or Digital Communications. Students may also consider taking Digital Art to increase general knowledge of tech and applications. Students may consider taking Web Design alongside IB DP CS.
 
 ![alt text](../images/compsci2.jpg "CC 2.0: Generic | Cropped  | Kim Burgess")
-
-#### An IB DP Course
 
 Computer science is regarded as an experimental science, alongside biology, chemistry, design technology, physics and environmental systems and societies. All computer science students will work with other students of group 4 subjects (physics, chemistry, biology and design technology).
 
