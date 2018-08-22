@@ -5,6 +5,8 @@
 TechApps in Texas has six main strands based on the National Education Technology Standards and performance indicators based on the International Society for Technology in Education;  creativity and innovation; communication and collaboration; research and information fluency; critical thinking, problem solving, and decision making; digital citizenship; and technology operations and concepts. These are found across the different Tech Apps courses in Texas, including Robotics Programming & Design.
 
 Robotics Programming and Design will foster students' creativity and innovation by presenting opportunities to design, implement, and present meaningful robotic programs through a variety of media. Students will collaborate with one another, their instructor, and various electronic communities to solve problems in designing and programming robots. Through data analysis, students will identify task requirements, plan search strategies, and use robotic concepts to access, analyze, and evaluate information needed to solve problems. By using robotic knowledge and skills that support the work of individuals and groups in solving problems, students will select the technology appropriate for the task, synthesize knowledge, create solutions, and evaluate the results. Students will learn digital citizenship by researching current laws and regulations and by practicing integrity and respect. Students will gain an understanding of the principles of robotics through the study of physics, robotics, automation, and engineering design concepts.
+
+Before taking this course, it is recommended to have previous experience in technology; preferably Computer Science or Fundamentals of Computer Science; or to a lesser extent, at least Digital Communications.
  
 #### Overview
 
