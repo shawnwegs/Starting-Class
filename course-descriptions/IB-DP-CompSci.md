@@ -34,9 +34,9 @@ While IB has a specific order they've listed content, our order won't be exactly
 * A. ~~Databases~~
 * *B. Modeling & Simulation*
 * C. Web Science
-* D. ~~Object-oriented Programming (OOP)~~
+* D. ~~Object-oriented Programming (OOP) with Java~~
 
-We will cover Modeling & Simulation in this course. As we work with JavaScript, and as students may also choose to take the Web Design MYP/CP elective, students may have a strong enough understanding to consider answering Option C questions on the external assesments.
+In addition to covering the core topics, IB external assement papers(exams) will also include questions about the different options. Student will only select one set of the questions to answer, on a specific option. We are planning to cover Modeling & Simulation in this course. As we work with JavaScript, and as students may also choose to take the Web Design MYP/CP elective, students may have a strong enough understanding to consider answering Option C questions on the external assesments.
 
 ##### A bit of reading material:
 -[IB DP CS Subject Brief](https://www.ibo.org/globalassets/publications/recognition/4_computersl.pdf)
