@@ -42,6 +42,8 @@ In addition to covering the core topics, IB external assement papers(exams) will
 -[IB DP CS Subject Brief](https://www.ibo.org/globalassets/publications/recognition/4_computersl.pdf)
 
 -[Overview of the IB DP CS IA](http://ib.compscihub.net/internal-assessment/overview)
+
+-[Approved Notation for Pseudocode](http://ib.compscihub.net/wp-content/uploads/2015/04/IB-Pseudocode-rules-more.pdf)
  
 #### Style of Instruction:
 We're sort of figuring this out as we go. It will likely be a mix of direct instruction, research, and video resources.
