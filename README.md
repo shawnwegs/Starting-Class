@@ -15,7 +15,7 @@
 * [Computer Science 2](https://shawnwegs.github.io/Starting-Class/course-descriptions/IB-MYP-CP-CompSci2)
 * ~~Computer Science 3~~
 * [Computer Science Diploma-Level](https://shawnwegs.github.io/Starting-Class/course-descriptions/IB-DP-CompSci)
-* Digital Art & Animation
+* [Digital Art & Animation](https://shawnwegs.github.io/Starting-Class/course-descriptions/IB-MYP-CP-DigitalArt)
 * ~~Digital Communications~~
 * ~~Digital Design & Media Production~~
 * Digital Video & Audio Production
