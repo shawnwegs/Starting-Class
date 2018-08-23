@@ -45,11 +45,10 @@ If you need other accommodations, please see your instructor to make an appointm
 Our Digital Art & Animation course spans across 2 semesters. The course is broken up into 2 massive units.
 
 **Fall Unit: Portraiture**
-* What is Programming?
-* Basic Programming in Python
-* Origins of Programming
-* Basic Encryption Techniques
-* Design and Program a Rough Encryption Method
+* What is Art
+* SVG
+* Illustrator
+* Photoshop
 
 **Spring Unit: Text-based Games**
 * History of Video Games
