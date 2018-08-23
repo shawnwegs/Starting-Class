@@ -7,6 +7,8 @@ TechApps in Texas has six main strands based on the National Education Technolog
 Our Web Design course is designed to be an introduction into the fundamentals of the origins of Web Design and where it is today. Web Design offers students a more gentle introduction into a skillset including professional software and coding. Students will work with three different computer languages in Web Design; HTML, CSS, and JavaScript. It would be great to include more, as this alone isn't enough in the industry today, but it's better to understand the basics well, than to go through everything quickly and not be able to use any of it. No background in specialized software is required.
 
 Web Design is an intermediate-level course, not introductory level. Prior to taking Web Design, it is recommended for students to complete Fundamentals of CS or Digital Communications. Students may also consider taking Digital Art to increase general knowledge of graphic software.
+
+![alt text](../images/webdesign.jpg "CC 2.0: Generic | Cropped & Levels Adjustment  | Anthony Catalano")
  
 #### Course Summary
 
@@ -35,11 +37,8 @@ After School: Monday, Tuesday, & Thursday
 
 If you need other accommodations, please see your instructor to make an appointment.
 
-![alt text](../images/compsci.jpg "CC 2.0: Generic | Cropped & Levels Adjustment  | Anthony Catalano")
 
-
-
-#### Computer Science Course Content
+#### Web Design Course Content
  
 The content in this course will build on itself. If you don't intend to remember the concepts and basic code throughout the year, you will struggle as future content will make use of previously used content to reinforce and increase the complexity of what you can create. If this is a field you are interested in, this is just a start into the study of it. You will need further study, but this is a good start and will give you a good foundation to build on.
  
