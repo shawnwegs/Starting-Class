@@ -5,6 +5,10 @@
 TechApps in Texas has six main strands based on the National Education Technology Standards and performance indicators based on the International Society for Technology in Education;  creativity and innovation; communication and collaboration; research and information fluency; critical thinking, problem solving, and decision making; digital citizenship; and technology operations and concepts. These are found across the different Tech Apps courses in Texas, including Computer Science.
 
 Computer Science II will foster students' creativity and innovation by presenting opportunities to design, implement, and present meaningful programs through a variety of media. Students will collaborate with one another, their instructor, and various electronic communities to solve the problems presented throughout the course. Through data analysis, students will identify task requirements, plan search strategies, and use computer science concepts to access, analyze, and evaluate information needed to solve problems. By using computer science knowledge and skills that support the work of individuals and groups in solving problems, students will select the technology appropriate for the task, synthesize knowledge, create solutions, and evaluate the results. Students will learn digital citizenship by researching current laws and regulations and by practicing integrity and respect. Students will gain an understanding of the principles of computer science through the study of technology operations, systems, and concepts.
+
+
+![alt text](../images/compsci2.jpg "CC 2.0: Generic | Cropped  | Kim Burgess")
+
  
 #### Course Summary
 
@@ -32,9 +36,6 @@ After School: Monday, Tuesday, & Thursday
 * 3:15 - 4:00 pm
 
 If you need other accommodations, please see your instructor to make an appointment.
-
-![alt text](../images/compsci2.jpg "CC 2.0: Generic | Cropped  | Kim Burgess")
-
 
 
 #### Computer Science Course Content
