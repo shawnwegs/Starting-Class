@@ -41,14 +41,10 @@ If you need other accommodations, please see your instructor to make an appointm
 
 
 #### Digital Art Course Content
- 
-Our Computer Science course is designed to be an introduction into the ideas and fundamentals of programming for students with limited to no background in programming. That being said, students are expected to have previous knowledge of computers in general, and should be able to utilize basic everyday software and operating systems. No background in specialized software is required.
- 
-All students will learn how to create multiple programs by the end of the course. Students will have to plan and design their own programs, both independently and in working with others. The concepts of computer science and programming are embedded into the creation of various programs, there is an increased focus on planning, researching, and creating products in comparison to other Computer Science programs.
 
-Our Computer Science course spans across 2 semesters. The course is broken up into 2 massive units.
+Our Digital Art & Animation course spans across 2 semesters. The course is broken up into 2 massive units.
 
-**Fall Unit: Classical Encryption**
+**Fall Unit: Portraiture**
 * What is Programming?
 * Basic Programming in Python
 * Origins of Programming
