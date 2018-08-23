@@ -50,28 +50,14 @@ Our Digital Art & Animation course spans across 2 semesters. The course is broke
 * Illustrator
 * Photoshop
 
-**Spring Unit: Text-based Games**
-* History of Video Games
-* Game Loops & Algorithm-planning
-* Object Oriented Programming
-* Design your own Text-based Game
+**Spring Unit: Animation**
+* SVG
+* Flash
+* OpenToonz
 
 For the traditional American education system, this is an elective. An elective does not mean you get a free A. An elective actually means you don't have to pass. You can excel in, barely pass, or fail this class. Which ever result you choose to pursue will be on your transcript, will affect your GPA, and will be included in what is sent to colleges and universities.
  
 To IB, this subject area is just as important as any other, and should require rigorous and significant course work. You are expected to put forth a valiant effort consistently during class and throughout the year. The grade is a reflection of your choices; good or bad.
-
-##### A bit of reading material:
--[Why study Computer Science?](https://www.depauw.edu/academics/departments-programs/computer-science/why-study-computer-science/)
-
--[6 Surprising Ways Computer Science Benefits Society](https://www.rasmussen.edu/degrees/technology/blog/ways-computer-science-benefits-society/)
-
-##### Concerns?
- 
-The bare minimum for passing in this region is a 70. If you are not doing the minimum of what is expected, you will most likely score below that. If you are just doing the minimum, your grade will likely fall around there. To excel, you should be creating work above the minimum expectations. If you are interested in programming, but are concerned about jumping into Computer Science 1, It's ok! The whole point of this course is to learn how to program. You aren't expected to already know how to program- where would you learn how if CS1 already expected you to know?
- 
-If you've never worked with code before, you can still do just fine. If you've taken Tech/Design courses already at WAIS, you've probably already worked with at least a little bit of code. Most of our Tech/Design courses have a couple assignments utilizing code to get you a little more comfortable with it.
- 
-If you're really concerned about working with code; consider looking into Fundamentals of CompSci and/or Digital Communications before taking Computer Science 1. We might not use the same languages, but you'll still learn how to create with code and be more comfortable in text-based environments.
  
 #### Style of Instruction:
 Majority of content will be delivered through video instruction. This allows you to revisit content as often as you need, as well as to be able to slow down, speed up, or repeat content as often as you need. This also allows your instructor to work with and help students or groups of students when they need, without stopping the content for the rest of students.
