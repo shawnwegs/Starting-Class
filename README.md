@@ -1,5 +1,5 @@
 # Design & CS Courses at WAIS
-###### With S.Wegscheid
+###### With S.Wegs
 
 #### Setting Up Your GitHub Page
 * [How to Setup your GitHub Page](https://shawnwegs.github.io/Guide-to-Setup-GH-Pages/)
