@@ -74,9 +74,12 @@ All forms of academic dishonesty and cheating are taken seriously. Some forms of
 Many students are under the belief that if it is for education, copyright and intellectual property laws don't apply. This is not the case. Many companies choose not to file charges when copyright or intellectual property laws are violated for educational use, but some companies do, and this doesn't mean they can't choose to at a later point in time. Use of other's works as your own, without proper documentation can result in loss of credit. However, use of copyrighted material can also result in legal issues in addition to any academic woes.
   
 ##### A bit of reading material:
--[Copyright Crash Course](http://guides.lib.utexas.edu/copyright)
 
 -[10 Big Myths About Copyright Explained](https://www.templetons.com/brad/copymyths.html)
+
+-[CrashCourse's Intelectual Property Playlist](https://www.youtube.com/playlist?list=PL8dPuuaLjXtMwV2btpcij8S3YohW9gUGN)
+
+-[Copyright Crash Course](http://guides.lib.utexas.edu/copyright)
 
 ##### Collaboration vs Collusion:
 
