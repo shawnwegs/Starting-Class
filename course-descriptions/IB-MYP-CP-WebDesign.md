@@ -84,7 +84,7 @@ Many students are under the belief that if it is for education, copyright and in
 ##### A bit of reading material:
 - [10 Big Myths About Copyright Explained](https://www.templetons.com/brad/copymyths.html)
 
-- [CrashCourse's Intelectual Property Playlist](https://www.youtube.com/playlist?list=PL8dPuuaLjXtMwV2btpcij8S3YohW9gUGN)
+- [Durham University's IP video](https://www.youtube.com/watch?v=EQsZf2G4Sdc)
 
 - [Copyright Crash Course](http://guides.lib.utexas.edu/copyright)
 
