@@ -103,7 +103,7 @@ Many students are under the belief that if it is for education, copyright and in
 - [Copyright Crash Course](http://guides.lib.utexas.edu/copyright)
 
 ##### Collaboration vs Collusion:
-
+ 
 All forms of academic dishonesty and cheating are taken seriously. Some forms of cheating and academic dishonesty are more self-explanatory than others. The form of academic dishonesty that seems to confuse students is collusion. Collusion is providing or receiving unauthorized aid or assistance. What is or isn't authorized can vary from course to course, so it is important that you communicate with, and understand the expectations of, your instructor.
  
 Research, as well as personal experience, shows that students tend to understand content better when working with and discussing content with other students. Some assignments will actually require it. However, it is important that the aid and assistance you receive, or that you provide, is authorized. If you are physically touching another student's keyboard, mouse, or sending complete or partial chunks of code, you are likely engaging in collusion, not collaboration. If unsure, it's better to ask. Collusion is a form of academic dishonesty and can result in loss of credit for all parties involved.
