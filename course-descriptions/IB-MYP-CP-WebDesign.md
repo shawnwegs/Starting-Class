@@ -82,9 +82,11 @@ All forms of academic dishonesty and cheating are taken seriously. Some forms of
 Many students are under the belief that if it is for education, copyright and intellectual property laws don't apply. This is not the case. Many companies choose not to file charges when copyright or intellectual property laws are violated for educational use, but some companies do, and this doesn't mean they can't choose to at a later point in time. Use of other's works as your own, without proper documentation can result in loss of credit. However, use of copyrighted material can also result in legal issues in addition to any academic woes.
   
 ##### A bit of reading material:
--[Copyright Crash Course](http://guides.lib.utexas.edu/copyright)
+- [10 Big Myths About Copyright Explained](https://www.templetons.com/brad/copymyths.html)
 
--[10 Big Myths About Copyright Explained](https://www.templetons.com/brad/copymyths.html)
+- [CrashCourse's Intelectual Property Playlist](https://www.youtube.com/playlist?list=PL8dPuuaLjXtMwV2btpcij8S3YohW9gUGN)
+
+- [Copyright Crash Course](http://guides.lib.utexas.edu/copyright)
 
 ##### Collaboration vs Collusion:
 
@@ -93,9 +95,9 @@ All forms of academic dishonesty and cheating are taken seriously. Some forms of
 Research, as well as personal experience, shows that students tend to understand content better when working with and discussing content with other students. Some assignments will actually require it. However, it is important that the aid and assistance you receive, or that you provide, is authorized. If you are physically touching another student's keyboard, mouse, or sending complete or partial chunks of code, you are likely engaging in collusion, not collaboration. If unsure, it's better to ask. Collusion is a form of academic dishonesty and can result in loss of credit for all parties involved.
   
 ##### A bit of reading material:
--[Crossing the Line: Collusion or Collaboration...](https://files.eric.ed.gov/fulltext/EJ1004398.pdf)
+- [Crossing the Line: Collusion or Collaboration...](https://files.eric.ed.gov/fulltext/EJ1004398.pdf)
 
--[Robert College's Collaboration Guidelines](http://webportal.robcol.k12.tr/Academics/Academic-Honesty/CollaborationGuidelines/Pages/default.aspx)
+- [Robert College's Collaboration Guidelines](http://webportal.robcol.k12.tr/Academics/Academic-Honesty/CollaborationGuidelines/Pages/default.aspx)
  
 #### CMS / LMS:
 We will use ManageBac.
