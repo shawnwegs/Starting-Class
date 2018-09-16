@@ -62,11 +62,9 @@ For the traditional American education system, this is an elective. An elective 
 To IB, this subject area is just as important as any other, and should require rigorous and significant course work. You are expected to put forth a valiant effort consistently during class and throughout the year. The grade is a reflection of your choices; good or bad.
 
 ##### A bit of reading material:
--[10 Big Myths About Copyright Explained](https://www.templetons.com/brad/copymyths.html)
+-[Why study Computer Science?](https://www.depauw.edu/academics/departments-programs/computer-science/why-study-computer-science/)
 
--[CrashCourse's Intelectual Property Playlist](https://www.youtube.com/playlist?list=PL8dPuuaLjXtMwV2btpcij8S3YohW9gUGN)
-
--[Copyright Crash Course](http://guides.lib.utexas.edu/copyright)
+-[6 Surprising Ways Computer Science Benefits Society](https://www.rasmussen.edu/degrees/technology/blog/ways-computer-science-benefits-society/)
  
 #### Style of Instruction:
 Majority of content will be delivered through video instruction. This allows you to revisit content as often as you need, as well as to be able to slow down, speed up, or repeat content as often as you need. This also allows your instructor to work with and help students or groups of students when they need, without stopping the content for the rest of students.
@@ -84,6 +82,8 @@ All forms of academic dishonesty and cheating are taken seriously. Some forms of
 Many students are under the belief that if it is for education, copyright and intellectual property laws don't apply. This is not the case. Many companies choose not to file charges when copyright or intellectual property laws are violated for educational use, but some companies do, and this doesn't mean they can't choose to at a later point in time. Use of other's works as your own, without proper documentation can result in loss of credit. However, use of copyrighted material can also result in legal issues in addition to any academic woes.
   
 ##### A bit of reading material:
+- [Copyright Clearance Center's Copyright Basics](https://www.youtube.com/watch?v=Uiq42O6rhW4)
+
 - [10 Big Myths About Copyright Explained](https://www.templetons.com/brad/copymyths.html)
 
 - [Durham University's IP video](https://www.youtube.com/watch?v=EQsZf2G4Sdc)
